@@ -228,7 +228,7 @@ code, pre{
     transform: translateY(-10px);
 }
 .stats .one:hover::after{
-    content: "Call or Text anytime. we strive to be your go-to digital consultant.";
+    content: "Call or Text anytime. I strive to be your go-to digital consultant.";
     font-size: 1.2rem;
     line-height: 1.2;
     position: absolute;
@@ -249,7 +249,7 @@ code, pre{
     color: var(--secondary-color);
 }
 .stats .three:hover::after{
-    content: "Search engine friendly design aswell as customizable to your marketing needs.";
+    content: "Search engine friendly design which are customizable to your marketing needs.";
     font-size: 1.2rem;
     line-height: 1.2;
     position: absolute;
@@ -260,7 +260,7 @@ code, pre{
     color: var(--secondary-color);
 }
 .stats .four:hover::after{
-    content: "Got data? We got the knowledge and tools to find the patterns you've been looking for.";
+    content: "Got data? I got the knowledge and tools to find the patterns you've been looking for.";
     font-size: 1.2rem;
     line-height: 1.2;
     position: absolute;
