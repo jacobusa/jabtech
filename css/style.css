@@ -470,6 +470,9 @@ code, pre{
     /* justify-content: center; */
     /* align-items: center; */
 }
+.map{
+    margin-bottom: 2em;
+}
 
 .docs-main h3{
     margin: 20px 0;
@@ -543,25 +546,25 @@ code, pre{
 .footer::before{
     content: "";
     position: absolute;
-    height: 80px;
+    height: 100px;
     top: -40px;
     right: 0;
     left: 0;
     background:var(--light-color);
     /* opacity: .8; */
-    transform: skewY(3deg);
+    transform: skewY(2deg);
     z-index: 100;
 }
 .footer::after{
     content: "";
     position: absolute;
-    height: 80px;
+    height: 100px;
     top: -40px;
     right: 0;
     left: 0;
     background:var(--light-color);
     /* opacity: .8; */
-    transform: skewY(-3deg);
+    transform: skewY(-2deg);
     z-index: 100;
 }
 .footer-flex{
